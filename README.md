@@ -4,7 +4,7 @@ also known as Nabil. currently, an undergrad student of EEE. i like exploring cr
 
 i do also share my thoughts and blogs on medium ..
 
-to knnow about me more visit <a href="meherabhossain.netlify.app">mhossain.me</a>
+to knnow about me more visit <a href="https://meherabhossain.netlify.app">mhossain.me</a>
 
 
 <!--
