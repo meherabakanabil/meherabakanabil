@@ -1,8 +1,8 @@
 ## Hi there, I'm Meherab Hossain
 
-also known as Nabil. currently, an undergrad student of EEE. i like exploring creative works, leanrning new things, solving problems, and gamimg in my free time. i will upload some of my interesting projects on github.
+also known as Nabil. currently, an undergrad EEE student with a passion for creativity, learning, problem-solving, and gaming in free times. I'll be sharing some of my exciting projects on GitHub.
 
-i do also share my thoughts and blogs on medium ..
+i pen down my thoughts and ideas on medium and linkedin ..
 
 to knnow more about me visit <a href="https://meherabhossain.com" target="_blank">meherabhossain.com</a>
 
